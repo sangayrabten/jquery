@@ -1,0 +1,75 @@
+#color1{
+    width:100px;
+    height:100px;
+    background-color: antiquewhite;
+}
+#color2{
+    width:100px;
+    height:100px;
+    background-color: red;
+}
+
+#color3{
+    width:100px;
+    height:100px;
+    background-color: greenyellow;
+}
+
+.togl{
+    height:80px;
+    width:150px;
+     color:blue;
+      background-color: aquamarine;
+}
+
+.m1{
+    padding: 50px;
+    display: none;
+}
+
+.m1, .b1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+ 
+  style>
+  .test {
+    color: red;
+    font-size: 20px;
+  }
+ style>
+  .important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  #did1 {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
+  }
+  #panel, #flip {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(249, 40, 40);
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }
+
